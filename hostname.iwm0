@@ -1,0 +1,5 @@
+up nwid "2704 Hyperoptic 1Gb Fibre 2.4Ghz" media autoselect mode 11g
+wpakey <key goes here>
+wpa wpaprotos wpa1,wpa2
+dhcp
+inet6 autoconf

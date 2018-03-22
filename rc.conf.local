@@ -1,0 +1,9 @@
+apmd_flags="-A"
+dbus_enable=YES
+dhcp_flags=vether0
+dhcpd_flags=vether0
+ntpd_flags="-s"
+pkg_scripts="dbus_daemon avahi_daemon"
+vmd_flags=
+pf=YES
+xenodm_flags=
